@@ -1,0 +1,59 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+header {
+    text-align: center;
+    background-color: #ff6f61;
+    color: #fff;
+    padding: 20px;
+}
+
+#header-content {
+    background-color: #ff6f61;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+    background-color: #ff6f61;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+}
+
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project {
+    margin: 10px;
+    padding: 10px;
+    background-color: #fc5185;
+    color: #fff;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #ff6f61;
+    color: #fff;
+    padding: 10px;
+}
+
+/* You can add more CSS styles to further customize your colorful website */
